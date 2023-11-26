@@ -10,11 +10,11 @@ Clear solution to the problem that required a python function that takes the use
  Solution to the third problem that required a python3 program that calculates the max consonant value on either side of the vowels of provided word.
    
 ## Known Bugs
-    The toy problems work perfect.
+The toy problems work perfect.
 
 ## Technologies used
-    - Pyhton 3
-    - Terminal
+- Pyhton 3
+- Terminal
     
 ## Sources
    https://www.w3schools.com/python/python_for_loops.asp
@@ -25,7 +25,7 @@ Clear solution to the problem that required a python function that takes the use
     - phone :: +254745071299
 
 ## Setup/Installation Requirements
-    ```bash
+```bash
 git clone git@github.com:agent19music/p3-cc1-toyproblems.git
 cd p3-cc1-toyproblems
 code .
