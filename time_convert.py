@@ -9,3 +9,4 @@ def convert_to_24_hour(hour, minute, period):
         # Format output and print
     print( f"{hour:02d}{minute:02d} hrs")
 
+convert_to_24_hour(8,17,'pm')

@@ -20,4 +20,4 @@ def max_consonant(word):
             
     print(max_value)
 
-
+max_consonant('zazz')

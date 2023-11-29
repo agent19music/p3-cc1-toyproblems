@@ -10,3 +10,4 @@ def two_positive(a, b, c):
         count += 1 # Increment counter
     print(count == 2) # Check if exactly 2 variables are positive
 
+two_positive(9,7,0)
